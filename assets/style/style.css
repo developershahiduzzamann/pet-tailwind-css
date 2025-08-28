@@ -4,11 +4,3 @@
   .fFont{
     font-family: "ADLaM Display", system-ui;
   }
-.bgImg{
-  background-image: url(../img/cat-big.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  /* background-size: cover; */
-  height: 800px;
-
-}
