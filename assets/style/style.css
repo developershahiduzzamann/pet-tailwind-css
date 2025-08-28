@@ -1,4 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
   /* font-family: "Sora", sans-serif; */
-  /* font-family: "ADLaM Display", system-ui; */
+  .fFont{
+    font-family: "ADLaM Display", system-ui;
+  }
+.bgImg{
+  background-image: url(../img/cat-big.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  height: 800px;
+
+}
